@@ -1,2 +1,3 @@
 start new song
 2 string - editing the song from web interface of the Github
+3 string - i fogot to make a commit (commentary)
