@@ -1,1 +1,2 @@
 start new song
+2 string - editing the song from web interface of the Github
